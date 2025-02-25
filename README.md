@@ -15,8 +15,8 @@ The Sentiment Analysis Tool is a machine learning-based application designed to 
 + Orange3 (Download from Orange)
 + Python 3.x
 + Required Libraries (if using scripts outside Orange)
-- pip install pandas numpy nltk scikit-learn
-- Dataset Source – Twitter datasets from Kaggle.
++ pip install pandas numpy nltk scikit-learn
++ Dataset Source – Twitter datasets from Kaggle.
 # Usage
 + Load the dataset – Import Twitter data into Orange.
 + Preprocess the text – Use text mining widgets for tokenization and stopword removal.
